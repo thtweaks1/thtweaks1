@@ -40,23 +40,6 @@ Hello! I'm Arthur or Th, a developer interested in Windows optimization, perform
 
 ---
 
-## 🚀 Featured Project
-
-### ⚡ Device Optimizer
-
-A Windows optimization and diagnostics utility focused on performance, system configuration and gaming.
-
-**Features:**
-
-- ⚡ Windows performance tweaks
-- 🎮 Gaming optimizations
-- 🖱️ Mouse & keyboard configuration
-- 🔌 USB / xHCI configuration
-- 🖥️ Hardware diagnostics
-- 🧹 System cleanup
-- 💾 Backup & Restore
-- 🌐 Network utilities
-
 ---
 
 ## 📊 GitHub Stats
