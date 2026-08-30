@@ -1,65 +1,24 @@
-<div align="center">
+# About Me 😉
 
-# ⚡ TH Tweaks
+Hello! I'm **Arthur or Th**, a developer focused on building Windows utilities, system tools and performance-focused software.
 
-### Windows Optimization • Performance • Automation
-
-Building tools to make Windows cleaner, faster and easier to optimize.
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-Hello! I'm Arthur or Th, a developer interested in Windows optimization, performance and software development.
-
-- ⚡ Focused on **Windows Performance & Optimization**
-- 🛠️ Building tools, tweaks and utilities
-- 🐍 Learning **Python, C#, Batch & PowerShell**
-- 🎮 Interested in gaming performance and low-latency systems
-- 🚀 Always improving my projects and learning new technologies
+- 🔭 **Currently working on:** Windows utilities using C# and .NET
+- 🌱 **Currently learning:** C#, .NET and Python
+- ⚙️ **Interested in:** Windows internals, optimization and system development
+- 💬 **Ask me about:** C#, Windows utilities and performance tools
 
 ---
 
 ## 💻 Tech Stack
 
-<p align="left">
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</p>
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows11&logoColor=white)
 
 ---
 
----
+## 🌐 Socials
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=thtweaks1&show_icons=true&theme=tokyonight&hide_border=true">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thtweaks1&layout=compact&theme=tokyonight&hide_border=true">
-
-</div>
-
----
-
-## 🛠️ What I'm Building
-
-```text
-TH Tweaks
-│
-├── ⚡ Device Optimizer
-├── 🖥️ Windows Tweaker
-├── 🎮 Gaming Optimization
-├── 🔧 System Utilities
-└── 🚀 More coming soon...
+[![GitHub](https://img.shields.io/badge/GitHub-TH-181717?style=flat&logo=github)](https://github.com/thtweaks1)
