@@ -14,7 +14,6 @@ Building tools to make Windows cleaner, faster and easier to optimize.
 
 Hello! I'm Arthur or Th, a developer interested in Windows optimization, performance and software development.
 
-- 🔭 Currently working on **Device Optimizer**
 - ⚡ Focused on **Windows Performance & Optimization**
 - 🛠️ Building tools, tweaks and utilities
 - 🐍 Learning **Python, C#, Batch & PowerShell**
