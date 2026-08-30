@@ -22,5 +22,5 @@ Hello! I'm **Arthur or Th**, a developer focused on building Windows utilities, 
 ## 🌐 Socials
 
 [![GitHub](https://img.shields.io/badge/GitHub-TH-181717?style=flat&logo=github)](https://github.com/thtweaks1)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](vrdaswyestsix)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](839623760628809728)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/thtweaks1)
