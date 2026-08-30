@@ -17,7 +17,7 @@ Hello! I'm Arthur or Th, a developer interested in Windows optimization, perform
 - 🔭 Currently working on **Device Optimizer**
 - ⚡ Focused on **Windows Performance & Optimization**
 - 🛠️ Building tools, tweaks and utilities
-- 🐍 Learning **Python, Batch & PowerShell**
+- 🐍 Learning **Python, C#, Batch & PowerShell**
 - 🎮 Interested in gaming performance and low-latency systems
 - 🚀 Always improving my projects and learning new technologies
 
